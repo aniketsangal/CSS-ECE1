@@ -1,0 +1,21 @@
+.box {
+    border: 2px solid black;
+    background-color: pink;
+    height: 400px;
+    width: 720px;
+}
+img {
+    padding-left: 40px;
+    padding-bottom: 80px;
+    width: 300px;
+    float: left;
+    padding-right: 20px;
+}
+h1{
+    padding-left: 10px;
+}
+.footer {
+    background-color: gray;
+    clear: both;
+}
+
